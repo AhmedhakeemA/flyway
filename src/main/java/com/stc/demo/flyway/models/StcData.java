@@ -15,6 +15,8 @@ public class StcData {
 
     private String username;
 
+    private String fullName;
+
     private String mobile;
 
 }
